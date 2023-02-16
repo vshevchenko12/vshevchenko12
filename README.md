@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vshevchenko12/vshevchenko12/blob/output/github-contribution-grid-snake.svg)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vshevchenko12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats&count_private=true) -->
