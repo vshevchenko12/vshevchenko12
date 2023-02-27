@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vshevchenko12&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vshevchenko12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="apple" width="45" height="45"/>
@@ -44,4 +46,4 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://github.com/vshevchenko12/vshevchenko12/blob/output/github-contribution-grid-snake.svg)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vshevchenko12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats&count_private=true) -->
+
