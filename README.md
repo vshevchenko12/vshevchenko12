@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ### :fire: My GitHub History :
+<!-- ### :fire: My GitHub History : -->
 
-[![Vitalli's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vshevchenko12&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vshevchenko12&theme=dark&background=000000)](https://git.io/streak-stats) -->
+<!-- [![Vitalli's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vshevchenko12&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vshevchenko12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vshevchenko12&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
