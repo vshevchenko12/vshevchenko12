@@ -48,6 +48,14 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/vshevchenko12/vshevchenko12/blob/output/github-contribution-grid-snake.svg)
+<!--  ![Snake animation](https://github.com/vshevchenko12/vshevchenko12/blob/output/github-contribution-grid-snake.svg) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 
