@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="rails" width="45" height="45"/>
 </p>
  
-![Snake animation](https://github.com/vshevchenko12/vshevchenko12/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vshevchenko12/vshevchenko12/blob/new-output/github-contribution-grid-snake.svg)
 
 
 
